@@ -1,43 +1,73 @@
-This is my Field Marketing Performance Dashboard.
-I built two versions: one in Excel and one in Power BI — to demonstrate both manual data handling and automated visualization skills.
-The goal is to analyze promoters’ performance, regional sales, and store distribution to support marketing decisions.
+Field Marketing Performance Dashboard
 
+This project showcases a Field Marketing Performance Dashboard built in two versions — one in Excel and another in Power BI — to demonstrate both manual data handling and automated data visualization skills.
+The goal is to analyze promoters’ performance, regional sales, and store distribution to support marketing and business decisions.
 
-Excel Dashboard
+🧾 Excel Dashboard
 
-This Excel dashboard was designed to track key performance metrics of field marketing.
-It includes revenue, promoters, promo types, and store distribution.
-I used charts, slicers, and data-driven visualizations for better interactivity.
+The Excel dashboard was designed to track key field marketing performance metrics, including revenue, promoters, promo types, and store distribution.
+It provides a clean and functional layout using charts, slicers, and data-driven visualizations for interactivity.
 
-KPIs at the top:
-Total Revenue (7M)
-Total Visits (1500)
-Avg Audit Score (3.03)
-Total Promoters (1200)
+Key KPIs
 
-Revenue by Month / Region / Promo Type
-Cairo has the highest revenue, showing strong sales performance in that region
-Number of Promoters & Hours Worked by Region -> (productivity indicator)
-Top 10 Promoters by Visits -> (useful for rewards or best-practice analysis)
-Store Distribution & Status
-Low Stock Products  -> (Helps make quick resupply decisions)
-So in Excel, I focused on a clean, functional dashboard using slicers and visual consistency for decision-makers
+Total Revenue: 7M
 
+Total Visits: 1,500
 
-Power BI Dashboard
+Average Audit Score: 3.03
 
-In Power BI, I recreated and enhanced the dashboard for automation and interactivity.
-KPIs cards on top:
-Summarized same metrics dynamically (linked to data model).
-Visuals used:
-Bar charts for regional analysis
-Pie chart for promo type revenue
-Line chart for revenue trends over time
-Donut chart for store status
-Horizontal bar chart for promoter count
-Filters (Slicers):
-Interactive filters by Region & Promo Type allow management to drill down quickly.
-Design:
-Clean theme with corporate-style colors and alignment.
-Consistent formatting and readable numbers (in millions).
-In Power BI, I used DAX measures for total revenue and average audit score, added slicers for interactivity, and ensured responsiveness in layout.
+Total Promoters: 1,200
+
+Main Insights & Visuals
+
+Revenue by Month / Region / Promo Type: Cairo leads in revenue, showing the strongest sales performance.
+
+Promoters & Hours Worked by Region: Used as a productivity indicator.
+
+Top 10 Promoters by Visits: Highlights best performers for recognition or benchmarking.
+
+Store Distribution & Status: Monitors store coverage and activity levels.
+
+Low Stock Products: Helps make quick resupply and inventory decisions.
+
+💡 Focus: A clean, decision-oriented layout with consistent visuals and intuitive slicers.
+
+📊 Power BI Dashboard
+
+The Power BI version enhances the Excel dashboard with automation, real-time interactivity, and dynamic visuals powered by DAX.
+
+Key Features
+
+Dynamic KPI Cards: Automatically updated metrics linked to the data model.
+
+Visuals Used:
+
+📊 Bar charts → Regional analysis
+
+🥧 Pie chart → Promo type revenue
+
+📈 Line chart → Revenue trends over time
+
+🍩 Donut chart → Store status
+
+📉 Horizontal bar chart → Promoter count
+
+Filters (Slicers)
+
+Interactive filters by Region and Promo Type for quick drill-down and exploration.
+
+Design & Layout
+
+Professional, corporate-style color palette.
+
+Consistent formatting with readable figures (in millions).
+
+Responsive and clean layout optimized for presentation and analysis.
+
+💡 Focus: Automated insights, interactive exploration, and strong visual storytelling using Power BI.
+
+🧠 Key Takeaways
+
+Demonstrates skills in both manual Excel-based reporting and automated Power BI dashboards.
+
+Shows ability to design data-driven marketing insights dashboards supporting performance tracking and decision-making.
