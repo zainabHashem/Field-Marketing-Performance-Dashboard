@@ -3,6 +3,8 @@ Field Marketing Performance Dashboard
 This project showcases a Field Marketing Performance Dashboard built in two versions — one in Excel and another in Power BI — to demonstrate both manual data handling and automated data visualization skills.
 The goal is to analyze promoters’ performance, regional sales, and store distribution to support marketing and business decisions.
 
+............................................................
+
 🧾 Excel Dashboard
 
 The Excel dashboard was designed to track key field marketing performance metrics, including revenue, promoters, promo types, and store distribution.
@@ -31,6 +33,8 @@ Store Distribution & Status: Monitors store coverage and activity levels.
 Low Stock Products: Helps make quick resupply and inventory decisions.
 
 💡 Focus: A clean, decision-oriented layout with consistent visuals and intuitive slicers.
+
+............................................................
 
 📊 Power BI Dashboard
 
@@ -65,6 +69,8 @@ Consistent formatting with readable figures (in millions).
 Responsive and clean layout optimized for presentation and analysis.
 
 💡 Focus: Automated insights, interactive exploration, and strong visual storytelling using Power BI.
+
+............................................................
 
 🧠 Key Takeaways
 
